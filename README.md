@@ -1,4 +1,5 @@
 ## Updates in dev branch
+### This update WILL NOT cherry-picked
 
 ### Newman v5 has been released. Check the [migration guide](MIGRATION.md#migrating-from-v4-to-v5) and [changelog](https://github.com/postmanlabs/newman/blob/v5.0.0/CHANGELOG.yaml#L1) for more details.
 
